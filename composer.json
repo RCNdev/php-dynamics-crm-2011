@@ -1,0 +1,14 @@
+{
+	"name" : "rcn3rdparty/php-dynamics-crm-2011",
+	"description" : "Dynamics CRM 2011 Connector for PHP",
+	"authors" : [{
+			"name" : "Nicholas Price"
+		}
+	],
+	"keywords" : [
+		"Dynamics"
+	],
+	"require" : {
+		"php" : ">=5.3.3"
+	}
+}
