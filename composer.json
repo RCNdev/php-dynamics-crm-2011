@@ -10,5 +10,10 @@
 	],
 	"require" : {
 		"php" : ">=5.3.3"
+	},
+	"autoload" : {
+		"files" : [
+			"DynamicsCRM2011.php"
+		]
 	}
 }
